@@ -1,4 +1,4 @@
-#Jamboard
+# Jamboard
 
 We're so back with v2.
 This is a 75% keyboard which I designed over the course of a couple of days back in Feb for fun and to see just how hard designing a keyboard could be!
