@@ -66,6 +66,7 @@ It's basic firmware (led controls, matrix and rotary encoder controls) which I p
 BOM:
 
 **NOTE: All items here are ordered in the lowest amount available, even if the quantity is >1. The quantity references the amount of items inside the pack.**
+
 **ALSO: Any item which goes over budget will have the remaining amount covered by me. E.g. The keycaps go over budget. They will have the remaining $3.03 covered by me.**
 
 [BOM Table (In Google Sheets)](https://docs.google.com/spreadsheets/d/10ayODNDgifRF8TIKmW62j9T8PxfnleCE7DduQY3qoK8/edit?gid=501465466#gid=501465466)
