@@ -84,7 +84,7 @@ It's basic firmware (led controls, matrix and rotary encoder controls) which I p
 | [Aluminium Alloy Knob](https://www.aliexpress.com/item/1005008054145777.html) | 2 (1pk) | $4.72 | Me |
 | [DUROCK Plate Mounted Stabilisers](https://www.amazon.co.uk/Sarini-Stabilizers-Stabilizer-Replacement-Accessories/dp/B0D6VF4SQB/) | 1 Set (4x2U 1x6.25U) | $7.81 | Grant |
 | [M3 Allen Bolt](https://www.aliexpress.com/item/32810872544.html) | 50 | $2.11 | Grant |
-| [M3 Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | $2.83 | Grant |
+| [M3 4.5mmOD 6mm Length Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | $2.83 | Grant |
 | [Acrylic Sheet (1mm thickness)](https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203) | 1 | $5.34 | Me |
 | Shipping (Aliexpress) | N/A | $6.74 | Grant |
 | Shipping (Acrylic) | N/A | $9.37 | Me |
