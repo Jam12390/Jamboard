@@ -74,7 +74,7 @@ It's basic firmware (led controls, matrix and rotary encoder controls) which I p
 | Item | Quantity | Price | Source |
 |------|----------|-------|-------|
 | Orpheus Pico | 1 | N/A | HQ |
-| PCB | 5 (min) | $40.35 | Grant |
+| PCB | 5 (min) | $20.60 | Grant |
 | Case | 1 | N/A | Printed myself |
 | [Gateron Red Switches](https://www.aliexpress.com/item/1005005550328893.html) | 90 | $26.60 | Grant |
 | [EC11 Rotary Encoder](https://www.aliexpress.com/item/1005005983159472.html) | 1 | $1.91 | Grant |
@@ -87,10 +87,11 @@ It's basic firmware (led controls, matrix and rotary encoder controls) which I p
 | [M3 4.5mmOD 6mm Length Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | $2.83 | Grant |
 | [Acrylic Sheet (1mm thickness)](https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203) | 1 | $5.34 | Me |
 | Shipping (Aliexpress) | N/A | $6.74 | Grant |
+| Shipping (JLCPCB) | N/A | $12.45 | Grant |
 | Shipping (Acrylic) | N/A | $9.37 | Me |
 
-HQ Total: $72.54
+HQ Total: $110.59
 
 Self-Funded: $19.43
 
-BOM Total: $91.97
+BOM Total: $130.02
