@@ -6,7 +6,7 @@ This is a 75% keyboard which I designed over the course of a couple of days back
 
 Spoilers: It was difficult.
 
-Schematic:
+## Schematic:
 ![image](https://github.com/user-attachments/assets/e7a38927-3d77-436f-b328-701bc1124f09)
 ![image](https://github.com/user-attachments/assets/6f2aa29f-deaf-46ef-ac56-3ba0a11f4d1b)
 ![image](https://github.com/user-attachments/assets/6607ca3a-f9d2-424d-bef2-c37913acca1f)
@@ -14,7 +14,7 @@ Schematic:
 Arguably the easiest part of the project, the schematic was more just tedious in the sense that wiring the LED matrix along with the switches got pretty tiring after the first 5 or so minutes.
 However, it didn't take me too long to make the whole schematic, people on slack helped me with choosing the correct MRC to wire it all to.
 
-PCB:
+## PCB:
 
 ![image](https://github.com/user-attachments/assets/79c1f397-91e0-4369-9c15-ad88463334f2)
 
@@ -25,7 +25,7 @@ That *was* until I was helping someone on slack and saw they had different sized
 Good news - I got all the measurements right on my own :D.
 Bad news - I wasted about an hour doing that :(.
 
-Case:
+## Case:
 
 Fully Assembled:
 
@@ -58,12 +58,12 @@ The feet of the case were ***heavily inspired*** (carbon copied) from my current
 
 I've modelled the parts for the feet and stabilising holes separately and will just print them myself - if I need to add the files anyway just lmk!
 
-Firmware:
+## Firmware:
 
 There's not much to put here since I've learned a lot from the hackpad firmware incident, meaning this part only took like 30 minutes to do :D.
 It's basic firmware (led controls, matrix and rotary encoder controls) which I plan on expanding and developing when I have the board to experiment with since it'll be easier to do then.
 
-BOM:
+## BOM
 
 **NOTE: All items here are ordered in the lowest amount available, even if the quantity is >1. The quantity references the amount of items inside the pack.**
 
@@ -80,9 +80,17 @@ BOM:
 | [EC11 Rotary Encoder](https://www.aliexpress.com/item/1005005983159472.html) | 1 | $1.91 | Grant |
 | [SK6812 MINIE LEDs](https://www.aliexpress.com/item/1005007863635868.html) | 100 | $3.57 | Grant |
 | [1N4148 Diodes](https://www.aliexpress.com/item/4000142272546.html) | 100 | $1.65 | Grant |
-| [PBT Side Printed Keycaps](https://www.amazon.co.uk/PBT-Keycaps-Minimalist-Mechanical-Keyboards/dp/B0BZCFFB94) | 1 | $28.03 | Grant + Me |
+| [PBT Side Printed Keycaps](https://www.aliexpress.com/item/1005008769598276.html) | 1 | $19.34 | Grant |
 | [Aluminium Alloy Knob](https://www.aliexpress.com/item/1005008054145777.html) | 2 (1pk) | $4.72 | Me |
-| [Sarini Stabilisers 2U etc.](https://www.amazon.co.uk/Sarini-Stabilizers-Stabilizer-Replacement-Accessories/dp/B0D6VF4SQB/) | 7 (1pk) | $13.41 | Grant |
-| [3x16mm Steel Screws](https://www.amazon.co.uk/16mm-Small-Steel-Countersunk-Screws/dp/B083M983XD) | 100 | $5.36 | Grant |
-| [Threaded Brass Heatset Inserts](https://www.amazon.co.uk/Threaded-Inserts-Printing-Knurled-Automotive/dp/B0BVMK6DTK) | 100 | $7.64 | Grant |
+| [DUROCK Plate Mounted Stabilisers](https://www.amazon.co.uk/Sarini-Stabilizers-Stabilizer-Replacement-Accessories/dp/B0D6VF4SQB/) | 1 Set (4x2U 1x6.25U) | $7.81 | Grant |
+| [M3 Allen Bolt](https://www.aliexpress.com/item/32810872544.html) | 50 | $2.11 | Grant |
+| [M3 Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | $2.83 | Grant |
 | [Acrylic Sheet (1mm thickness)](https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203) | 1 | $5.34 | Me |
+| Shipping (Aliexpress) | N/A | $6.74 | Grant |
+| Shipping (Acrylic) | N/A | $9.37 | Me |
+
+HQ Total: $72.54
+
+Self-Funded: $19.43
+
+BOM Total: $91.97
