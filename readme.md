@@ -74,7 +74,7 @@ It's basic firmware (led controls, matrix and rotary encoder controls) which I p
 | Item | Quantity | Price | Source |
 |------|----------|-------|-------|
 | Orpheus Pico | 1 | N/A | HQ |
-| PCB | 5 (min) | $20.60 | Grant |
+| PCB | 5 (min) | $25.60 | Grant |
 | Case | 1 | N/A | Printed myself |
 | [Gateron Red Switches](https://www.aliexpress.com/item/1005005550328893.html) | 90 | $26.60 | Grant |
 | [EC11 Rotary Encoder](https://www.aliexpress.com/item/1005005983159472.html) | 1 | $1.91 | Grant |
