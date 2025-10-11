@@ -1,4 +1,4 @@
-ITEM,QUANTITY,PRICE (USD),PRICE (LOCAL £),SOURCE,LINK,HQ TOTAL (USD),HQ TOTAL (£),SELF-PAID ($),SELF-PAID (£),BOM TOTAL ($),,Shipping ($), Source
+ITEM,QUANTITY,PRICE (USD),PRICE (LOCAL £),SOURCE,LINK,HQ TOTAL (USD),HQ TOTAL (£),SELF-PAID ($),SELF-PAID (£),BOM TOTAL ($),,Shipping ($), SOURCE
 Orpheus Pico,1.00,0.00,0.00,HQ,N/A,110.59,82.30,19.43,14.45,130.02,Aliexpress,6.74, Grant
 PCB,5 (min),25.60,30.06,JLCPCB (Grant),N/A,,,,,,JLCPCB,12.45, Grant
 Case,1.00,0.00,0.00,Me,N/A,,,,,,Perspex,9.37, Me
@@ -13,4 +13,5 @@ M3 Allen Bolt,50.00,2.11,1.57,Grant,https://www.aliexpress.com/item/32810872544.
 M3 Threaded Insert,50.00,2.83,2.11,Grant,https://www.aliexpress.com/item/1005004535859664.html,,,,,,,,
 
 Acrylic Sheet (1mm),1.00,5.34,3.98,Me,https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203,,,,,,,,
+
 
