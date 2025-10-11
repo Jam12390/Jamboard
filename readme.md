@@ -29,9 +29,9 @@ Bad news - I wasted about an hour doing that :(.
 
 Fully Assembled:
 
-![image](https://github.com/user-attachments/assets/4ea43f57-9278-49d4-b2c0-d80f60a2ee00)
+<img width="283" height="106" alt="image" src="https://github.com/user-attachments/assets/17efd3aa-b544-4462-8ad0-2e069e3ceaad" />
 
-![image](https://github.com/user-attachments/assets/c912326d-1a4c-4c4a-937b-f37688a0bf6c)
+<img width="1179" height="563" alt="image" src="https://github.com/user-attachments/assets/0878b6bc-178d-46c8-9722-12602787eae1" />
 
 (Note: MRC pins are clipping through the case in the second screenshot, this shouldn't be an issue when building the keyboard to the best of my knowledge)
 
@@ -54,9 +54,7 @@ I also changed how the art for my board is done - I liked the idea of seeing the
 
 The art includes boywithuke, chiikawa, orpheus and some handpicked quotes from my friends. I've put a gap in the top plate so I can put an acrylic plate there when I order my parts.
 
-The feet of the case were ***heavily inspired*** (carbon copied) from my current keyboard (Logitech G513) since imo they're pretty perfect and I like them. Plus my hands are already used to the angle of my current keyboard so copying the feet in theory should make this keyboard also feel nice!
-
-I've modelled the parts for the feet and stabilising holes separately and will just print them myself - if I need to add the files anyway just lmk!
+The cutouts on the bottom of the case are for if I want to add keyboard feet later on, which is the reason why there isn't a CAD file for keyboard feet. As it stands right now I don't really care about keyboard feet sooooooo...
 
 ## Firmware:
 
