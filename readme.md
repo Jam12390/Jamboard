@@ -29,23 +29,23 @@ Bad news - I wasted about an hour doing that :(.
 
 Fully Assembled:
 
-<img width="283" height="106" alt="image" src="https://github.com/user-attachments/assets/17efd3aa-b544-4462-8ad0-2e069e3ceaad" />
+<img width="1149" height="733" alt="Screenshot 2025-10-12 001306" src="https://github.com/user-attachments/assets/4cf5864c-4dc0-4cdd-8e43-61d8dbcd7df0" />
 
 <img width="1179" height="563" alt="image" src="https://github.com/user-attachments/assets/0878b6bc-178d-46c8-9722-12602787eae1" />
 
-(Note: MRC pins are clipping through the case in the second screenshot, this shouldn't be an issue when building the keyboard to the best of my knowledge)
+(Note: MRC pins are clipping through the case in the second screenshot, this shouldn't be an issue when building the keyboard because I'm gonna trim the mrc pins after soldering them :3)
 
 Top Case:
 
-![image](https://github.com/user-attachments/assets/c15ccecc-b048-4b0d-b3d6-72bb347be2b7)
+<img width="1218" height="661" alt="image" src="https://github.com/user-attachments/assets/c0aa3871-8f96-4b81-bd45-65bc00948165" />
 
-![image](https://github.com/user-attachments/assets/7147ca92-0de1-4036-9acf-cbc7e33c0398)
+<img width="1160" height="527" alt="image" src="https://github.com/user-attachments/assets/23197673-5be2-4661-b4e7-1fe9116868c7" />
 
 Bottom Case:
 
-![image](https://github.com/user-attachments/assets/411e294e-dc8e-4765-ad6c-d305704a2e55)
+<img width="1234" height="675" alt="image" src="https://github.com/user-attachments/assets/e1e368fd-6b27-4d62-a9ae-80fd0501bfae" />
 
-![image](https://github.com/user-attachments/assets/40052b47-057d-46b4-a31c-3b82b084adfb)
+<img width="1189" height="459" alt="image" src="https://github.com/user-attachments/assets/93ae0392-186b-4edb-a02a-a5fe14c835e2" />
 
 This is the part I changed after my initial PR since there was an issue with the switch holes not aligning properly with the switches themselves along with there not being holes for the stabilsers and 2 screws. This in itself took a while seeing as I initially eyeballed the measurements for the stabilisers before being told to just go to ai03's plate generator (which I should've done from the start). That turned out to be much quicker than scouring the internet for the dimensions thankfully).
 After fixing those issues, I saw a nice design from aryatajne28's reaperboard and decided to make one of my own - initially making a separate top and middle plate but merging them in the end in order to fix an issue where screwing the case together wouldn't actually attach the case layers.
