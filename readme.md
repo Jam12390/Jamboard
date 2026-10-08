@@ -18,8 +18,8 @@ However, it didn't take me too long to make the whole schematic, people on slack
 
 ![image](https://github.com/user-attachments/assets/79c1f397-91e0-4369-9c15-ad88463334f2)
 
-Ever felt like wiring 700 wires on a pcb? Well now you can!
-The pcb design was probably my favourite part and took me more than a few hours over a few days to get all the wiring done to a point where I was happy with it.
+Ever felt like wiring 700 wires on a PCB? Well now you can!
+The PCB design was probably my favourite part and took me more than a few hours over a few days to get all the wiring done to a point where I was happy with it.
 The initial positioning also took a while because I was pulling my hair out trying to calculate the sizes of different keycaps (e.g. Tab and caps lock) so the keycaps didn't overlap.
 That *was* until I was helping someone on slack and saw they had different sized outlines for the keycaps and decided to take a second look at the footprint library... and lo and behold, people aren't masochists and made different sized footprints for the different keys...
 Good news - I got all the measurements right on my own :D.
@@ -54,12 +54,14 @@ I also changed how the art for my board is done - I liked the idea of seeing the
 
 The art includes boywithuke, chiikawa, orpheus and some handpicked quotes from my friends. I've put a gap in the top plate so I can put an acrylic plate there when I order my parts.
 
-The cutouts on the bottom of the case are for if I want to add keyboard feet later on, which is the reason why there isn't a CAD file for keyboard feet. As it stands right now I don't really care about keyboard feet sooooooo...
+The cutouts on the bottom of the case are for optional keyboard feet, however these aren't included in the repo as I personally don't like them. The CAD source files are present if you'd like to design your own though!
 
 ## Firmware:
 
 There's not much to put here since I've learned a lot from the hackpad firmware incident, meaning this part only took like 30 minutes to do :D.
 It's basic firmware (led controls, matrix and rotary encoder controls) which I plan on expanding and developing when I have the board to experiment with since it'll be easier to do then.
+### Notice:
+Firmware has not been expanded upon. This is due to a lack of foresight on my end when I realised that I'd have to solder ~800 pads, which I unfortunately don't have the attention span to do. Sorry!
 
 ## BOM
 
