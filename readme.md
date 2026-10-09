@@ -2,21 +2,21 @@
 
 We're so back with v2.
 This is a 75% keyboard which I designed over the course of a couple of days back in Feb for fun and to see just how hard designing a keyboard could be!
-(Minor note: I know the branding on the case says "Just Another Hackboard". That was the original name for the project and is the branding I want for the keyboard. + I'm printing the case myself so it shouldn't be an issue.)
+(Minor note: I know the branding on the case says "Just Another Hackboard". That was the original name for the project and is the branding I want for the keyboard.
 
 Spoilers: It was difficult.
 
-## Schematic:
-![image](https://github.com/user-attachments/assets/e7a38927-3d77-436f-b328-701bc1124f09)
-![image](https://github.com/user-attachments/assets/6f2aa29f-deaf-46ef-ac56-3ba0a11f4d1b)
-![image](https://github.com/user-attachments/assets/6607ca3a-f9d2-424d-bef2-c37913acca1f)
+<img width="1536" height="730" alt="image" src="https://github.com/user-attachments/assets/f6570ec3-3cdd-42fa-8d78-920ed8202ef5" />
+<img width="1539" height="717" alt="image" src="https://github.com/user-attachments/assets/ddb3abdc-7b58-4123-b351-1d0a5cfb9a2c" />
+<img width="750" height="876" alt="image" src="https://github.com/user-attachments/assets/e4a9be2f-20f8-4f8b-9fe2-98a2f04c707a" />
+
 
 Arguably the easiest part of the project, the schematic was more just tedious in the sense that wiring the LED matrix along with the switches got pretty tiring after the first 5 or so minutes.
 However, it didn't take me too long to make the whole schematic, people on slack helped me with choosing the correct MRC to wire it all to.
 
 ## PCB:
 
-![image](https://github.com/user-attachments/assets/79c1f397-91e0-4369-9c15-ad88463334f2)
+<img width="1631" height="853" alt="image" src="https://github.com/user-attachments/assets/6231e5be-3cbd-4930-8d84-3380f0dcd7ff" />
 
 Ever felt like wiring 700 wires on a PCB? Well now you can!
 The PCB design was probably my favourite part and took me more than a few hours over a few days to get all the wiring done to a point where I was happy with it.
@@ -65,31 +65,27 @@ Firmware has not been expanded upon. This is due to a lack of foresight on my en
 
 ## BOM
 
-**NOTE: All items here are ordered in the lowest amount available, even if the quantity is >1. The quantity references the amount of items inside the pack.**
+**NOTE: This project was originally made under Hack Club's HackPad V2 event, there may still be some references to "HQ" or HackPad(V1). These are still present since removing them would remove the passion I had c:**
 
 [BOM Table (In Google Sheets)](https://docs.google.com/spreadsheets/d/10ayODNDgifRF8TIKmW62j9T8PxfnleCE7DduQY3qoK8/edit?gid=501465466#gid=501465466)
 
-| Item | Quantity | Price | Source |
-|------|----------|-------|-------|
-| Orpheus Pico | 1 | N/A | HQ |
-| PCB | 5 (min) | $25.60 | Grant |
-| Case | 1 | N/A | Printed myself |
-| [Gateron Red Switches](https://www.aliexpress.com/item/1005005550328893.html) | 90 | $26.60 | Grant |
-| [EC11 Rotary Encoder](https://www.aliexpress.com/item/1005005983159472.html) | 1 | $1.91 | Grant |
-| [SK6812 MINIE LEDs](https://www.aliexpress.com/item/1005007863635868.html) | 100 | $3.57 | Grant |
-| [1N4148 Diodes](https://www.aliexpress.com/item/4000142272546.html) | 100 | $1.65 | Grant |
-| [PBT Side Printed Keycaps](https://www.aliexpress.com/item/1005008769598276.html) | 1 | $19.34 | Grant |
-| [Aluminium Alloy Knob](https://www.aliexpress.com/item/1005008054145777.html) | 2 (1pk) | $4.72 | Me |
-| [DUROCK Plate Mounted Stabilisers](https://www.amazon.co.uk/Sarini-Stabilizers-Stabilizer-Replacement-Accessories/dp/B0D6VF4SQB/) | 1 Set (4x2U 1x6.25U) | $7.81 | Grant |
-| [M3 Allen Bolt](https://www.aliexpress.com/item/32810872544.html) | 50 | $2.11 | Grant |
-| [M3 4.5mmOD 6mm Length Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | $2.83 | Grant |
-| [Acrylic Sheet (1mm thickness)](https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203) | 1 | $5.34 | Me |
-| Shipping (Aliexpress) | N/A | $6.74 | Grant |
-| Shipping (JLCPCB) | N/A | $12.45 | Grant |
-| Shipping (Acrylic) | N/A | $9.37 | Me |
+| Item | Quantity | Price |
+|------|----------|-------|
+| [Raspberry Pi Pico](https://www.aliexpress.com/item/1005006839247100.html) | 1 | £2.72 |
+| PCB | 5 (min) | £19.34 |
+| Case | 1 | N/A | Printed |
+| [Gateron Red Switches](https://www.aliexpress.com/item/1005005550328893.html) | 90 | £20.10 |
+| [EC11 Rotary Encoder](https://www.aliexpress.com/item/1005005983159472.html) | 1 | £1.44 |
+| [SK6812 MINIE LEDs](https://www.aliexpress.com/item/1005007863635868.html) | 100 | £2.70 |
+| [1N4148 Diodes](https://www.aliexpress.com/item/4000142272546.html) | 100 | £1.25 |
+| [PBT Side Printed Keycaps](https://www.aliexpress.com/item/1005008769598276.html) | 1 | £14.61 |
+| [Aluminium Alloy Knob](https://www.aliexpress.com/item/1005008054145777.html) | 2 (1pk) | £3.57 |
+| [DUROCK Plate Mounted Stabilisers](https://www.amazon.co.uk/Sarini-Stabilizers-Stabilizer-Replacement-Accessories/dp/B0D6VF4SQB/) | 1 Set (4x2U 1x6.25U) | £5.90 |
+| [M3 Allen Bolt](https://www.aliexpress.com/item/32810872544.html) | 50 | £1.59 |
+| [M3 4.5mmOD 6mm Length Threaded Inserts](https://www.aliexpress.com/item/1005004535859664.html) | 50 | £2.14 |
+| [Acrylic Sheet (1mm thickness)](https://www.simplyplastics.com/catalog/sheet/cast-acrylic-sheet/clear-cast-acrylic-sheet/c-24/c-83/p-203) | 1 | £4.03 |
+| Shipping (Aliexpress) | N/A | £5.09 |
+| Shipping (JLCPCB) | N/A | £9.41 |
+| Shipping (Acrylic) | N/A | £7.08 |
 
-HQ Total: $110.59
-
-Self-Funded: $19.43
-
-BOM Total: $130.02
+BOM Total: £101.97
