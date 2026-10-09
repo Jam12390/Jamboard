@@ -2,7 +2,6 @@
 
 We're so back with v2.
 This is a 75% keyboard which I designed over the course of a couple of days back in Feb for fun and to see just how hard designing a keyboard could be!
-(Minor note: I know the branding on the case says "Just Another Hackboard". That was the original name for the project and is the branding I want for the keyboard.
 
 Spoilers: It was difficult.
 
